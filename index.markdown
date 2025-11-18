@@ -2,7 +2,13 @@
 layout: homepage
 ---
 
-## CROKE: Characteristic mapping for Kinetic Equations: from theory to simulations and Reduced Order methods 
+<div style="text-align: center;">
+
+# CROKE 
+
+## Characteristic mapping for Kinetic Equations: from theory to simulations and Reduced Order methods
+
+</div> 
 
 this page is currently under development
 
@@ -12,23 +18,20 @@ this page is currently under development
 
 ## Team:
 
-LAGA, UMR 7030, Université Paris 13
-<br>
-Olivier Lafitte (PI and coordinator)
+- **LAGA, UMR 7030, Université Paris 13**
+  - Olivier Lafitte (PI and coordinator)
 
-CEA - IRFM, Cadarache
-<br>
-Kevin Obrejan, Philipp Krah
+- **CEA - IRFM, Cadarache**
+  - Kevin Obrejan
+  - Philipp Krah
 
-I2M, UMR 7373, Aix-Marseille Université
-<br>
-Kai Schneider
+- **I2M, UMR 7373, Aix-Marseille Université**
+  - Kai Schneider
 
-McGill University, Montreal
-<br>
-Jean-Christophe Nave 
+- **McGill University, Montreal**
+  - Jean-Christophe Nave 
 
 
-## PhD - positions available:
+## PhD - Positions Available:
 
 contact: [philipp.krah@cea.fr](mailto:philipp.krah@cea.fr) 
