@@ -10,9 +10,6 @@ layout: homepage
 
 </div> 
 
-this page is currently under development
-
-[Visit the old Adaptive-CMM project →]({{ '/adaptive-cmm/' | relative_url }})
 
 ---
 
@@ -20,10 +17,13 @@ this page is currently under development
 
 **LAGA, UMR 7030, Université Paris 13**
 Olivier Lafitte (PI and coordinator)
+
 **CEA - IRFM, Cadarache**
 Kevin Obrejan and Philipp Krah
+
 **I2M, UMR 7373, Aix-Marseille Université**
 Kai Schneider
+
 **McGill University, Montreal**
 Jean-Christophe Nave 
 
@@ -31,3 +31,8 @@ Jean-Christophe Nave
 ### PhD - Positions Available:
 
 Contact: [philipp.krah@cea.fr](mailto:philipp.krah@cea.fr) 
+
+
+---
+
+[Visit the old Adaptive-CMM project →]({{ '/adaptive-cmm/' | relative_url }})
