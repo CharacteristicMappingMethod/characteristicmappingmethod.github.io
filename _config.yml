@@ -1,32 +1,50 @@
 title: Characteristic Mapping Method for Kinetic Equations (CROKE)
-position: <a href=" https://anr.fr/Projet-ANR-25-
-CE46-2339">Project ANR-25-CE46-2339</a>
+position: <a href="https://anr.fr/Projet-ANR-25-CE46-2339">Project ANR-25-CE46-2339</a>
 affiliation: 2026 - 2030
 email: philipp.krah@cea.fr
 description:
 keywords: Computational Physics, Numerical Analysis
 google_scholar:
 github_link: https://github.com/CharacteristicMappingMethod
-avatar: ./assets/img/arton1807.jpg
-favicon: ./assets/img/arton1807.jpg
-favicon_dark: ./assets/img/arton1807.jpg
-canonical: https://minimal-light.yyliu.net/
+avatar: /assets/img/arton1807.jpg
+favicon: /assets/img/arton1807.jpg
+favicon_dark: /assets/img/arton1807.jpg
+# GitHub Pages Configuration:
+# - If repository is "username.github.io" or "orgname.github.io" (user/org page):
+#   baseurl: ""
+#   url: "https://username.github.io" or "https://orgname.github.io"
+# - If repository is a project page (e.g., "project-name"):
+#   baseurl: "/project-name"
+#   url: "https://username.github.io" or "https://orgname.github.io"
+#
+# IMPORTANT: Update the values below based on your actual GitHub Pages setup!
+baseurl: "" # Empty for user/org pages, or "/repo-name" for project pages
+url: "https://philipp137.github.io" # Your GitHub Pages URL (update if different)
+
+canonical: "https://philipp137.github.io" # Update with your actual GitHub Pages URL
 remote_theme: yaoyao-liu/minimal-light
-baseurl: "/characteristicmappingmethod.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: philipp137
 
 # Build settings
-#theme: minima
 plugins:
   - jekyll-feed
 
 defaults:
+  # Posts use "post" layout
   -
     scope:
       path: ""
+      type: "posts"
     values:
       layout: "post"
+  # Pages in root use "page" layout (except index.markdown which specifies its own)
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  # Note: index.markdown explicitly specifies layout: homepage, so it won't be overridden
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
