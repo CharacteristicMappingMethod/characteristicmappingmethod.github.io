@@ -2,11 +2,9 @@
 layout: homepage
 ---
 
-## CROKE — Characteristic mapping for Kinetic Equations
+## CROKE — Characteristic Mapping Method for Kinetic Equations
 **Characteristic mapping for Kinetic Equations: from theory to simulations and Reduced Order methods (CROKE)** 
-this page is in development
-
-> Exploring characteristic mappings as a unifying language for plasma, rarefied gas, and turbulent transport models while keeping the computational footprint minimal through Reduced Order methods.
+this page is currently under development
 
 [Visit the old Adaptive-CMM project →]({{ '/adaptive-cmm/' | relative_url }})
 
