@@ -18,15 +18,14 @@ this page is currently under development
 
 ### Team:
 
-- **LAGA, UMR 7030, Université Paris 13**
-  - Olivier Lafitte (PI and coordinator)
-- **CEA - IRFM, Cadarache**
-  - Kevin Obrejan
-  - Philipp Krah
-- **I2M, UMR 7373, Aix-Marseille Université**
-  - Kai Schneider
-- **McGill University, Montreal**
-  - Jean-Christophe Nave 
+**LAGA, UMR 7030, Université Paris 13**
+Olivier Lafitte (PI and coordinator)
+**CEA - IRFM, Cadarache**
+Kevin Obrejan and Philipp Krah
+**I2M, UMR 7373, Aix-Marseille Université**
+Kai Schneider
+**McGill University, Montreal**
+Jean-Christophe Nave 
 
 
 ### PhD - Positions Available:
