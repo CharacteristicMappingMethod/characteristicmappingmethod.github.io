@@ -6,7 +6,8 @@ layout: homepage
 
 <h1>CROKE</h1>
 
-<h2>Characteristic mapping for Kinetic Equations: from theory to simulations and Reduced Order methods</h2>
+<h2>-Characteristic mapping for Kinetic Equations-</h2> <br>
+<h3> from theory to simulations and Reduced Order methods </h3>
 
 </div> 
 
@@ -21,7 +22,7 @@ multi-scale spatial domains. This project is designed to test the potential to e
 techniques and advance our understanding of intricate local thermodynamic non-equilibrium phenomena in
 plasmas, with applications in magnetically confined fusion.
 
-### Team:
+## Team:
 
 **LAGA, UMR 7030, Université Paris 13**
 <br>
@@ -40,10 +41,26 @@ Kai Schneider
 Jean-Christophe Nave 
 
 
-### PhD - Positions Available:
+## Positions Available:
 
-Contact: [philipp.krah@cea.fr](mailto:philipp.krah@cea.fr) 
+### Master projects:
 
+We are looking for talented and motivated master students in computational physics, applied mathematics or data-science.
+The proposed Master’s projects can be carried out either as a 6-month internship or as part of a Master’s thesis.
+These projects are funded, and we only accept Master’s students who are interested in pursuing a PhD afterwards.
+
+The projects can take place within one of three teams: CEA, LAGA–Paris, or I2M (Aix-Marseille University).
+
+- Evolving flow maps using neural-semi Lagrangian method: [Proposal](https://characteristicmappingmethod.github.io/assets/projects/neural_SL_CMM.pdf)
+- Data-assimilation for plasma simulations: [Proposal](https://characteristicmappingmethod.github.io/assets/projects/adjoint_plasma.pdf)
+- Learning neural flow maps for drift kinetic equations: [Proposal]
+
+### PhD positions:
+
+Two PhD positions are available that can take place in one of our teams.
+
+For interested candidates please contact:
+[philipp.krah@cea.fr](mailto:philipp.krah@cea.fr) 
 
 ---
 

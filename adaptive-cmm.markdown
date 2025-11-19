@@ -166,3 +166,4 @@ Former team members are marked with (*)
 - Jean-Christophe Nave, Faculty, McGill (coordinator Montreal McGill)
 - Olivier Lafitte, Faculty, CRM (coordinator Montreal CRM)
 
+
