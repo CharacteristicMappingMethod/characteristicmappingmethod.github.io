@@ -6,7 +6,7 @@ layout: homepage
 
 <h1>CROKE</h1>
 
-<h2>-Characteristic mapping for Kinetic Equations-</h2> <br>
+<h2>-Characteristic mapping for Kinetic Equations-</h2>
 <h3> from theory to simulations and Reduced Order methods </h3>
 
 </div> 
@@ -48,7 +48,6 @@ Jean-Christophe Nave
 We are looking for talented and motivated master students in computational physics, applied mathematics or data-science.
 The proposed Master’s projects can be carried out either as a 6-month internship or as part of a Master’s thesis.
 These projects are funded, and we only accept Master’s students who are interested in pursuing a PhD afterwards.
-
 The projects can take place within one of three teams: CEA, LAGA–Paris, or I2M (Aix-Marseille University).
 
 - Evolving flow maps using neural-semi Lagrangian method: [Proposal](https://characteristicmappingmethod.github.io/assets/projects/neural_SL_CMM.pdf)
