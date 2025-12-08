@@ -52,7 +52,7 @@ The projects can take place within one of three teams: CEA, LAGA–Paris, or I2M
 
 - Evolving flow maps using neural-semi Lagrangian method: [Proposal](https://characteristicmappingmethod.github.io/assets/projects/neural_SL_CMM.pdf)
 - Data-assimilation for plasma simulations: [Proposal](https://characteristicmappingmethod.github.io/assets/projects/adjoint_plasma.pdf)
-- Learning neural operators for drift kinetic equations: [Proposal]
+- Learning neural operators for drift kinetic equations
 
 ### PhD + PostDoc Positions
 
