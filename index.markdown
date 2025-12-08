@@ -52,11 +52,55 @@ The projects can take place within one of three teams: CEA, LAGA–Paris, or I2M
 
 - Evolving flow maps using neural-semi Lagrangian method: [Proposal](https://characteristicmappingmethod.github.io/assets/projects/neural_SL_CMM.pdf)
 - Data-assimilation for plasma simulations: [Proposal](https://characteristicmappingmethod.github.io/assets/projects/adjoint_plasma.pdf)
-- Learning neural flow maps for drift kinetic equations: [Proposal]
+- Learning neural operators gfor drift kinetic equations: [Proposal]
 
-### PhD positions:
+### PhD + PostDoc Positions
 
-Two PhD positions are available that can take place in one of our teams.
+Two positions are available within our research consortium. Candidates will be integrated into one of our partner teams.
+
+---
+
+#### **Position 1: Advanced Model Reduction for Kinetic Plasmas**
+
+##### Project Description
+This project focuses on pioneering data-driven and mathematical techniques to construct compact, efficient models of complex plasma systems. The primary objective is to overcome the "curse of dimensionality" by developing accurate low-dimensional representations of high-dimensional flow maps, leveraging their inherent compositional (semi-group) structure. The research will explore hybrid methodologies combining Neural Implicit Representations and Dynamic Low-Rank Approximations.
+
+##### Candidate Profile
+We seek a candidate with a background in **Applied Mathematics, Data Science, or Computational Physics**.
+
+- **Required:**
+  - Proven knowledge in machine learning and/or model order reduction
+  - Strong programming skills in C++ and PyTorch
+
+- **Advantageous:**
+  - Familiarity with partial differential equations
+
+##### Keywords
+Model Order Reduction, Neural Implicit Flow Maps, Low-Rank Approximation, Scientific Machine Learning, Plasma Physics
+
+---
+
+#### **Position 2: High-Performance Plasma Simulation for Fusion**
+
+##### Project Description
+This project aims to generalize the Characteristic Mapping Method (CMM) for realistic simulations of magnetically confined plasmas in fusion devices (Vlasov-Maxwell and Gyrokinetic). The work will involve the implementation and testing of realistic boundary conditions, the generalization of source term handling for collisions and heating, and the development of robust numerical schemes. Given the high-dimensional nature of the simulations, the implementation will be designed for High-Performance Computing (HPC) environments from the ground up.
+
+##### Candidate Profile
+We seek a candidate with a background in **Applied Mathematics, Computational Physics, or Scientific Computing/Informatics**.
+
+- **Required:**
+  - Solid foundation in numerical methods for partial differential equations
+  - Proficiency in C++ and HPC programming (e.g., MPI, CUDA, job schedulers, Git)
+
+- **Advantageous:**
+  - Basic knowledge of plasma physics
+
+##### Keywords
+Vlasov-Maxwell Equations, Gyrokinetics, High-Performance Computing (HPC), Characteristic Mapping Method, Plasma-Fusion
+
+---
+
+*Both positions offer competitive funding, access to state-of-the-art computing facilities, and collaboration opportunities within an international research network.*
 
 For interested candidates please contact:
 [philipp.krah@cea.fr](mailto:philipp.krah@cea.fr) 
