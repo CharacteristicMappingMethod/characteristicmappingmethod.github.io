@@ -4,10 +4,8 @@ layout: homepage
 
 <div style="text-align: center;">
 
-<h1>CROKE</h1>
-
-<h2>-Characteristic mapping for Kinetic Equations-</h2>
-<h3> from theory to simulations and Reduced Order methods </h3>
+<h1>-Characteristic Mapping for Kinetic Equations-</h2>
+<h2> From Theory to Simulations and Reduced Order Methods </h3>
 
 </div> 
 
@@ -58,9 +56,8 @@ The projects can take place within one of three teams: CEA, LAGA–Paris, or I2M
 
 Two positions are available within our research consortium. Candidates will be integrated into one of our partner teams.
 
-**Position 1**: [Machine Learning for Kinetic Plasma Simulations](https://characteristicmappingmethod.github.io/assets/projects/PHD_AI_CMM.pdf)
-
-**Position 2:** [High-Performance Plasma Simulation for Fusion](https://characteristicmappingmethod.github.io/assets/projects/PHD_PLASMA_CMM.pdf)
+- **Position 1**: [Machine Learning for Kinetic Plasma Simulations](https://characteristicmappingmethod.github.io/assets/projects/PHD_AI_CMM.pdf)
+- **Position 2:** [High-Performance Plasma Simulation for Fusion](https://characteristicmappingmethod.github.io/assets/projects/PHD_PLASMA_CMM.pdf)
 
 For interested candidates please contact:
 [philipp.krah@cea.fr](mailto:philipp.krah@cea.fr) 
