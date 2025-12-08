@@ -4,8 +4,8 @@ layout: homepage
 
 <div style="text-align: center;">
 
-<h1>-Characteristic Mapping for Kinetic Equations-</h2>
-<h2> From Theory to Simulations and Reduced Order Methods </h3>
+<h1>-Characteristic Mapping for Kinetic Equations-</h1>
+<h2> From Theory to Simulations and Reduced Order Methods </h2>
 
 </div> 
 
