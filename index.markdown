@@ -46,7 +46,7 @@ Jean-Christophe Nave  (Coordinator)
 We are looking for talented and motivated master students in computational physics, applied mathematics or data-science.
 The proposed Master projects can be carried out either as a 6-month internship or as part of a Master thesis.
 These projects are funded, and we only accept Master students who are interested in pursuing a PhD afterwards.
-The projects can take place within one of three teams: CEA Cadarache, LAGA–Paris, or I2M (Aix-Marseille University).
+The projects can take place within one of three teams: CEA Cadarache, LAGA–Paris, or I2M (Aix-Marseille University) in collaboration with McGill University.
 
 - Evolving flow maps using neural-semi Lagrangian method: [Proposal](https://characteristicmappingmethod.github.io/assets/projects/neural_SL_CMM.pdf)
 - Data-assimilation for plasma simulations: [Proposal](https://characteristicmappingmethod.github.io/assets/projects/adjoint_plasma.pdf)
