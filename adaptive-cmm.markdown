@@ -76,7 +76,7 @@ Commun. Comput. Phys., 35, pp. 905-937 (2024)
 <br>
 J. Bergmann, T. Oujia, X.-Y. Yin, J.-C. Nave and K. Schneider
 <br>
-arXiv preprint arXiv:2404.02008 (2024)
+arXiv preprint arXiv:2404.02008 (2024), Phys. Fluids, 36, 124126, 2024.
 <br>
 [[PDF](https://arxiv.org/pdf/2404.02008)]
 
@@ -100,7 +100,7 @@ J. Comput. Phys., 424, 109781, 2021. arXiv:1910.10841
 <br>
 T. Oujia, K. Matsuda and K. Schneider
 <br>
-Preprint, 12/2022. arXiv:2212.03580
+J. Comput. Phys., 498:112658, 2023. arXiv:2212.03580
 <br>
 [[PDF](https://arxiv.org/pdf/2212.03580.pdf)]
 
@@ -121,7 +121,7 @@ J. Fluid Mech., 905, A14, 2020. arXiv:2005.00525
 [[PDF](http://www.i2m.univ-amu.fr/perso/kai.schneider/PDF-FILES/oms_jfm2020_final.pdf)]
 
 ## List of conference proceedings and presentations
-
+  
 - JC Nave, *Méthodes à résolution arbitraire :du transport linéaire à l’équation d’Euler*, Univ. Paris Dauphine, March 2021
 
 - JC Nave, *Numerical Solution to the Incompressible Euler's Equations with Arbitrary Resolution*,  2021 SIAM Conference on Computational Science and Engineering (CSE21), July 2021
@@ -140,6 +140,9 @@ J. Fluid Mech., 905, A14, 2020. arXiv:2005.00525
 
 - Xi-Yuan Yin, *Characteristic Mapping method and applications to the singularity problem in the 3D Euler equations*, GDR turbulence, Lille 2-4/11/2022.
 
+- K. Schneider, CMM for 2D and 3D incompressible Euler equations,Fluid dynamics, geometry and computer science in Interaction: exploration of new horizons, CRM Barcelona (Spain), September 2024
+
+
 ## Movies
 
 + [Vortex merge simulation of incompressible Euler](http://lmfa.ec-lyon.fr/IMG/avi/2._video_-_vortex_merge_simulation-1.avi?2467/da0f88b056c958694dc74ef5dd0eb84d4a474717)
@@ -156,8 +159,8 @@ Former team members are marked with (*)
 - Philipp Krah, Postdoc, I2M Marseille
 - Benjamin Kadoch, Faculty, IUSTI Marseille
 - Kai Schneider, Faculty, I2M Marseille (PI and coordinator Marseille)
-- Marc Antonio Sahakian, Master Student, I2M Marseille
--  Xi-Yuan (Bruce) Yin, Postdoc, LMFA Lyon
+- Marc Antonio Sahakian(*), Master Student, I2M Marseille
+- Xi-Yuan (Bruce) Yin, Postdoc, LMFA Lyon
 - Tong Wu, PhD student, LMFA Lyon
 - Wouter Bos, Faculty, LMFA Lyon (coordinator Lyon)
 
