@@ -22,21 +22,21 @@ plasmas, with applications in magnetically confined fusion.
 
 ## Team:
 
-**LAGA, UMR 7030, Université Paris 13**
+**LAGA, UMR 7030, Université Sorbonne Paris Nord13**
 <br>
 Olivier Lafitte (PI and coordinator)
 
 **CEA - IRFM, Cadarache**
 <br>
-Kevin Obrejan and Philipp Krah
+Kevin Obrejan (Coordinator) and Philipp Krah
 
 **I2M, UMR 7373, Aix-Marseille Université**
 <br>
-Kai Schneider
+Kai Schneider (Coordinator)
 
-**McGill University, Montreal**
+**Department of Mathematics and Statistics, McGill University, Montreal**
 <br>
-Jean-Christophe Nave 
+Jean-Christophe Nave  (Coordinator)
 
 
 ## Positions Available:
@@ -60,7 +60,7 @@ Two positions are available within our research consortium. Candidates will be i
 - **Position 2:** [High-Performance Plasma Simulation for Fusion](https://characteristicmappingmethod.github.io/assets/projects/PHD_PLASMA_CMM.pdf)
 
 For interested candidates please contact:
-[philipp.krah@cea.fr](mailto:philipp.krah@cea.fr) 
+[philipp.krah@cea.fr](mailto:philipp.krah@cea.fr) or [lafitte@math.univ-paris13.fr](mailto:lafitte@math.univ-paris13.fr) or [kai.schneider@univ-amu.fr](mailto:kai.schneider@univ-amu.fr)
 
 ---
 
