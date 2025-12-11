@@ -57,10 +57,10 @@ The projects can take place within one of three teams: CEA Cadarache, LAGA–Par
 Two positions are available within our research consortium. Candidates will be integrated into one of our partner teams.
 
 - **Position 1**: [Machine Learning for Kinetic Plasma Simulations](https://characteristicmappingmethod.github.io/assets/projects/PHD_AI_CMM.pdf)
-- **Position 2:** [High-Performance Plasma Simulation for Fusion](https://characteristicmappingmethod.github.io/assets/projects/PHD_PLASMA_CMM.pdf)
+- **Position 2:** [High-Performance Plasma Simulations for Magnetically Confined Fusion](https://characteristicmappingmethod.github.io/assets/projects/PHD_PLASMA_CMM.pdf)
 
-For interested candidates please contact:
-[philipp.krah@cea.fr](mailto:philipp.krah@cea.fr) or [lafitte@math.univ-paris13.fr](mailto:lafitte@math.univ-paris13.fr) or [kai.schneider@univ-amu.fr](mailto:kai.schneider@univ-amu.fr)
+For interested candidates, please contact:
+[kevin.obrejan(at)cea.fr](mailto:kevin.obrejan@cea.fr), [philipp.krah(at)cea.fr](mailto:philipp.krah@cea.fr) or [lafitte(at)math.univ-paris13.fr](mailto:lafitte@math.univ-paris13.fr) or [kai.schneider(at)univ-amu.fr](mailto:kai.schneider@univ-amu.fr)
 
 ---
 
