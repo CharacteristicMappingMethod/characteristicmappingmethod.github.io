@@ -32,7 +32,9 @@ Olivier Lafitte (PI)
 <br>
 Kevin Obrejan and Philipp Krah
 <br>
-[kevin.obrejan(at)cea.fr](mailto:kevin.obrejan@cea.fr), [philipp.krah(at)cea.fr](mailto:philipp.krah@cea.fr)
+[kevin.obrejan(at)cea.fr](mailto:kevin.obrejan@cea.fr), 
+<br>
+[philipp.krah(at)cea.fr](mailto:philipp.krah@cea.fr)
 
 
 **I2M, UMR 7373, Aix-Marseille Université**
@@ -66,7 +68,8 @@ Two positions are available within our research consortium. Candidates will be i
 - **Position 1**: [Machine Learning for Kinetic Plasma Simulations](https://characteristicmappingmethod.github.io/assets/projects/PHD_AI_CMM.pdf)
 - **Position 2:** [High-Performance Plasma Simulations for Magnetically Confined Fusion](https://characteristicmappingmethod.github.io/assets/projects/PHD_PLASMA_CMM.pdf)
 
-For interested candidates, please contact one of the team members.
+For interested candidates, please don't hesitate to contact one of our team members.
+
 ---
 
 [Visit the old Adaptive-CMM project →]({{ '/adaptive-cmm/' | relative_url }})
