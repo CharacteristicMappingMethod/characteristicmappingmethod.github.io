@@ -24,19 +24,26 @@ plasmas, with applications in magnetically confined fusion.
 
 **LAGA, UMR 7030, Université Sorbonne Paris Nord**
 <br>
-Olivier Lafitte (PI and coordinator)
+Olivier Lafitte (PI)
+<br>
+[lafitte(at)math.univ-paris13.fr](mailto:lafitte@math.univ-paris13.fr)
 
 **CEA - IRFM, Cadarache**
 <br>
-Kevin Obrejan (Coordinator) and Philipp Krah
+Kevin Obrejan and Philipp Krah
+<br>
+[kevin.obrejan(at)cea.fr](mailto:kevin.obrejan@cea.fr), [philipp.krah(at)cea.fr](mailto:philipp.krah@cea.fr)
+
 
 **I2M, UMR 7373, Aix-Marseille Université**
 <br>
-Kai Schneider (Coordinator)
+Kai Schneider 
+<br>
+[kai.schneider(at)univ-amu.fr](mailto:kai.schneider@univ-amu.fr)
 
 **Department of Mathematics and Statistics, McGill University, Montreal**
 <br>
-Jean-Christophe Nave  (Coordinator)
+Jean-Christophe Nave
 
 
 ## Positions Available:
@@ -44,7 +51,7 @@ Jean-Christophe Nave  (Coordinator)
 ### Master projects:
 
 We are looking for talented and motivated master students in computational physics, applied mathematics or data-science.
-The proposed Master projects can be carried out either as a 6-month internship or as part of a Master thesis.
+The proposed Master's projects can be carried out either as a 6-month internship or as part of a Master's thesis.
 These projects are funded, and we only accept Master students who are interested in pursuing a PhD afterwards.
 The projects can take place within one of three teams: CEA Cadarache, LAGA–Paris, or I2M (Aix-Marseille University) in collaboration with McGill University.
 
@@ -59,9 +66,7 @@ Two positions are available within our research consortium. Candidates will be i
 - **Position 1**: [Machine Learning for Kinetic Plasma Simulations](https://characteristicmappingmethod.github.io/assets/projects/PHD_AI_CMM.pdf)
 - **Position 2:** [High-Performance Plasma Simulations for Magnetically Confined Fusion](https://characteristicmappingmethod.github.io/assets/projects/PHD_PLASMA_CMM.pdf)
 
-For interested candidates, please contact:
-[kevin.obrejan(at)cea.fr](mailto:kevin.obrejan@cea.fr), [philipp.krah(at)cea.fr](mailto:philipp.krah@cea.fr) or [lafitte(at)math.univ-paris13.fr](mailto:lafitte@math.univ-paris13.fr) or [kai.schneider(at)univ-amu.fr](mailto:kai.schneider@univ-amu.fr)
-
+For interested candidates, please contact one of the team members.
 ---
 
 [Visit the old Adaptive-CMM project →]({{ '/adaptive-cmm/' | relative_url }})
