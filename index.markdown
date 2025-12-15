@@ -30,12 +30,9 @@ Olivier Lafitte (PI)
 
 **CEA - IRFM, Cadarache**
 <br>
-Kevin Obrejan and Philipp Krah
+Kevin Obrejan 
 <br>
 [kevin.obrejan(at)cea.fr](mailto:kevin.obrejan@cea.fr), 
-<br>
-[philipp.krah(at)cea.fr](mailto:philipp.krah@cea.fr)
-
 
 **I2M, UMR 7373, Aix-Marseille Université**
 <br>
@@ -46,30 +43,6 @@ Kai Schneider
 **Department of Mathematics and Statistics, McGill University, Montreal**
 <br>
 Jean-Christophe Nave
-
-
-## Positions Available:
-
-### Master projects:
-
-We are looking for talented and motivated master students in computational physics, applied mathematics or data-science.
-The proposed Master's projects can be carried out either as a 6-month internship or as part of a Master's thesis.
-These projects are funded, and we only accept Master students who are interested in pursuing a PhD afterwards.
-The projects can take place within one of three teams: CEA Cadarache, LAGA–Paris, or I2M (Aix-Marseille University) in collaboration with McGill University.
-
-- Evolving flow maps using neural-semi Lagrangian method: [Proposal](https://characteristicmappingmethod.github.io/assets/projects/neural_SL_CMM.pdf)
-- Data-assimilation for plasma simulations: [Proposal](https://characteristicmappingmethod.github.io/assets/projects/adjoint_plasma.pdf)
-- Learning neural operators for drift kinetic equations
-
-### PhD + PostDoc Positions
-
-Two positions are available within our research consortium. Candidates will be integrated into one of our partner teams.
-
-- **Position 1**: [Machine Learning for Kinetic Plasma Simulations](https://characteristicmappingmethod.github.io/assets/projects/PHD_AI_CMM.pdf)
-- **Position 2:** [High-Performance Plasma Simulations for Magnetically Confined Fusion](https://characteristicmappingmethod.github.io/assets/projects/PHD_PLASMA_CMM.pdf)
-
-For interested candidates, please don't hesitate to contact one of our team members.
-
 ---
 
 [Visit the old Adaptive-CMM project →]({{ '/adaptive-cmm/' | relative_url }})
